@@ -52,7 +52,7 @@ npm install
 ### 2. Build the React app
 ```
 cd src/main/resources/react-app
-npm run build
+PUBLIC_URL=http://localhost:3001 npm run build
 ```
 
 ### 3. Start the React SSR server

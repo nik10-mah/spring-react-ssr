@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/nik10-mah/spring-react-ssr"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Got to GitHub Repository
         </a>
       </header>
     </div>
